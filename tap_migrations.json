@@ -18,6 +18,7 @@
   "eigen32": "homebrew/core",
   "elasticsearch17": "homebrew/core",
   "elasticsearch24": "homebrew/core",
+  "erlang-r18": "homebrew/core",
   "gcc46": "homebrew/core",
   "gcc47": "homebrew/core",
   "gcc48": "homebrew/core",
